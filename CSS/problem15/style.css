@@ -11,7 +11,7 @@ body {
 
 .main {
   min-height: 100vh;
-  background: url(imgs\bg.jpg);
+  background: url(file:C:/Users/Oleksandr%20Prusikov/Decode/html-css-workshop/CSS/problem15);
   background-size: cover;
-  color: #fff;
+  color:#fff;
 }

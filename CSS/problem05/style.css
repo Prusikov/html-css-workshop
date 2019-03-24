@@ -1,7 +1,7 @@
-#centered {
+.centered {
   text-align: center;
 }
-.title {
+#title {
   font-size: 3rem;
 }
 #subtitle {

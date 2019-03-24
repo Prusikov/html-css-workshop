@@ -1,17 +1,17 @@
-body {
+.body {
   margin: 0;
   font-family: Poppins, sans-serif;
 }
-
+.bar {
+  height: 50px;
+  background: #3a3633;
+  color: #fff;
+}
 .center-content {
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
 .main {
-  min-height: 100vh;
-  background: url(imgs\bg.jpg);
-  background-size: cover;
-  color: #fff;
+  min-height: calc(100vh - 100px);
 }
